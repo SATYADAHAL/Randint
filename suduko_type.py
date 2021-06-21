@@ -1,3 +1,4 @@
+#Even Magic Square
 from array import *
 def add_list(a,b):
     out=[]
