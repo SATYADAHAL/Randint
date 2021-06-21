@@ -25,7 +25,7 @@ for j in str_2:
 for k in str_3:
     if k not in lst:
         lst.append(k)
-perm = permutations([0,1,2,3,4,5,6,7,8,9],len(lst))
+perm = permutations([1,2,3,4,0,5,6,7,8,9],len(lst))
 for i in list(perm):
     for j in i:
         key_dict[lst[m]]=str(j)
