@@ -5,6 +5,7 @@
                         
 Every alphabet is assigned a inque number form 0-9, find the values for above alphabets that satisfy the above condition. '''
 from IPython.display import clear_output
+from itertools import permutations
 str_1=input("Enter first string to add:  ")
 str_2=input("Enter second string to add: ")
 str_3=input ("Enter third string to add: ")
