@@ -12,4 +12,5 @@
 ### Windows
 1. Download and compile.
 2. Change the command prompt font size to 5 or smaller if possible.
-3. Then execute the program.
+3. Then execute the program.<br>
+![](https://github.com/SATYADAHAL/Randint/blob/main/Linux_ScreenShot.png)
