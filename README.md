@@ -1,4 +1,4 @@
-# Just simple code to print Lord Shiva on terminal using ascii characters only.
+# Just a simple code to print Lord Shiva on terminal using ascii characters only.
 ## Instructions
 #### There are four files, two for linux/Unix Based OS and two for Windows. Download files according to your operating system.
 ### Linux and MacOs 
