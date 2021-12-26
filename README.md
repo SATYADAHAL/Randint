@@ -2,7 +2,7 @@
 ## Instructions
 ### Linux
 1. Just Download the code and compile.
-2. gcc Shiva_1.c -0 out_1
+2. gcc Shiva_1.c -o out_1
 3. Note: Change the terminal font size to minimum size possible and make terminal fullscreen. 
 4. ./out_1
 ### Windows
