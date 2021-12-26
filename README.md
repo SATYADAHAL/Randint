@@ -3,8 +3,9 @@
 ### Linux
 1. Just Download the code and compile.
 2. gcc Shiva_1.c -o out_1
-3. Note: Change the terminal font size to minimum size possible and make terminal fullscreen. 
-4. ./out_1
+3. ./out_1
+######  Note: Change the terminal font size to minimum size possible and make terminal fullscreen. 
+
 ### Windows
 1. Download and compile.
 2. Change the command prompt font size to 5 or smaller if possible.
